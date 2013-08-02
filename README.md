@@ -1,4 +1,5 @@
 node-console-template
+A simple nodejs template for command line line applications.
 
 Setup
 
@@ -34,5 +35,3 @@ Structure
 	  so that the command is created appropriately on
 	  npm install (or linking)
 - README.md - this file
-
-jwwishart
