@@ -8,6 +8,8 @@ Setup
 - open the package.json file and change the bin/name-me key to the same name as 
   what you changed the file to in the bin directory and change the path in the value 
   for that key to the relative path to the file in the bin directory
+- npm install (at command line)
+- npm link (will make the cmd available on the command line)
 
 Structure
 
